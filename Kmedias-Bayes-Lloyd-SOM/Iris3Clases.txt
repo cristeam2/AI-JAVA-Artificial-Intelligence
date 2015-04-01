@@ -1,0 +1,10 @@
+50,250,200,Iris-setosa
+10,254,180,Iris-setosa
+20,240,210,Iris-setosa
+40,248,190,Iris-setosa
+56,254,202,Iris-setosa
+50,250,200,Iris-setosa
+10,254,180,Iris-setosa
+20,240,210,Iris-setosa
+40,248,190,Iris-setosa
+56,254,202,Iris-setosa

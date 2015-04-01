@@ -1,0 +1,3 @@
+Distance 1: 0.03727388167635746
+Distance 2: 9.402009483752325
+Because D1 < D2 It's belong to first class,which is: Iris-setosa

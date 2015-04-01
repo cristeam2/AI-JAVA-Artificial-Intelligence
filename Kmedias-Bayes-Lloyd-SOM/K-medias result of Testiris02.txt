@@ -1,0 +1,5 @@
+Grado de pertenencia a la clase 1: 22.0%
+Grado  de pertenencia a la clase 2: 78.0%
+Distance 1: 21.080000000000005
+Distance 2: 5.880000000000002
+Because D2 < D1 It's belong to second class,which is: Iris-versicolor

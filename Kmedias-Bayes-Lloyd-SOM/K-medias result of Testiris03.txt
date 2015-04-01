@@ -1,0 +1,5 @@
+Grado de pertenencia a la clase 1: 95.0%
+Grado  de pertenencia a la clase 2: 5.0%
+Distance 1: 0.44999999999999996
+Distance 2: 8.85
+Because D1 < D2 It's belong to first class,which is: Iris-setosa

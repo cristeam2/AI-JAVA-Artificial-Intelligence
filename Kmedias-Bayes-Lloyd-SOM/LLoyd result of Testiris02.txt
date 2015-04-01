@@ -1,0 +1,3 @@
+Distance 1: 17.18275544414839
+Distance 2: 2.149977508718064
+Because D2 < D1 It's belong to second class,which is: Iris-versicolor

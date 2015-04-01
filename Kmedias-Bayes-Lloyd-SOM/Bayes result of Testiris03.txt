@@ -1,0 +1,5 @@
+Porcentaje de pertenencia a la clase 1: 100.0%
+Porcentaje de pertenencia a la clase 2: 3.912407370103638E-22%
+Distance D1= 0.2983331069675902
+Distance D2= 105.9335357762518
+Because D1 < D2 It's belong to first class,which is: Iris-setosa
